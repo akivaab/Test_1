@@ -1,5 +1,6 @@
 class QuickStart{
     public static void main(String[] args) {
         System.out.println("I DID IT!!!");
+        System.out.println(":)");
     }
 }
